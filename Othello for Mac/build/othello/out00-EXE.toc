@@ -1,0 +1,9 @@
+('/Users/Kairavi/Documents/Carnegie Mellon University/Coursework/2.3/Fundamentals of Programming/Othello/Othello for Mac/build/othello/othello',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1394388015)
